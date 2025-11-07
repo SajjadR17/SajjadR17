@@ -1,90 +1,80 @@
 ![Last Updated](https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=blue)
 
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Sajjad Roohandeh</h1>
+# 🌌 Hey, I'm **Sajjad Roohandeh**
+### 💻 Front-End Developer | HTML • CSS • JavaScript Learner  
 
-<p align="center">
-  💻 <b>Front-End Developer</b> | 🎨 <b>Creative Web Designer</b><br>
-  🚀 Passionate about clean code, animations, and user experience
-</p>
+🧠 Focused on building **modern**, **responsive**, and **aesthetically clean** websites.  
+I love turning design ideas into elegant front-end code and continuously improving my skills.  
 
----
-
-### 🌟 About Me
-🏠 Working from home  
-🌱 Currently learning **JavaScript**, **React**, and **modern CSS**  
-🎯 Goal: Building fast, responsive, and creative websites  
-💬 Quote: *“Don’t tell me it’s impossible.”*  
+</div>
 
 ---
 
-### 🧠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+## 🎨 About Me  
+✨ I’m currently learning advanced **CSS layouts** and starting to explore **JavaScript**.  
+⚙️ I enjoy creating minimal designs, experimenting with gradients, and working on UI details.  
+🌍 My goal: To become a **front-end developer** capable of building real-world, beautiful web apps.  
 
 ---
 
-### 🌐 Connect with me
+## 🚀 Featured Projects
+| 🔗 Project | 💬 Description |
+|------------|----------------|
+| [🌐 **Portfolio Website**](https://sajjad-dev-portfolio.netlify.app) | My personal portfolio showcasing my work and growth |
+| [📩 **Contact Us Form**](#) | Responsive form with a clean glassmorphism look |
+| [⏰ **Digital Clock**](#) | A simple and minimal digital clock built with HTML & CSS |
+| [🔐 **Login Form**](#) | Animated login/signup UI built for practice |
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roohandehsredi6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-roohandeh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web_sajjad?igsh=ZHc1NGpwandvdjhs)
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajjadR17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadR17&theme=tokyonight" alt="GitHub Streak" />
-</p>
+*(Add your project links as you deploy them on Netlify or GitHub Pages)*
 
 ---
 
-### 🏆 Badges & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajjadR17&theme=tokyonight&margin-w=10&row=1" />
-</p>
+## 🧠 Skills & Tools
+<div align="center">
+
+🧩 **Languages:**  
+`HTML5` • `CSS3` • `JavaScript (Learning)`  
+
+🎨 **Design & Layout:**  
+`Flexbox` • `Grid` • `Responsive Design` • `Animations`  
+
+🧰 **Tools:**  
+`VS Code` • `Git` • `GitHub` • `Netlify`
+
+</div>
 
 ---
 
-### ✨ Fun Quote
-> “Code is like art — you feel it before you understand it.” 🎨  
+## 🌐 Connect with Me  
+<div align="center">
+
+<a href="https://sajjad-dev-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sajjad-roohandeh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/web_sajjad?igsh=ZHc1NGpwandvdjhs" target="_blank">
+  <img src="https://img.shields.io/badge/📸_Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:Roohandehsredi6@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-⭐️ *If you like my projects, don’t forget to star them and follow me for updates!*
+## ⚡ Quote of the Day  
+> “Dream in code, design in color, and build with patience.” 🌙  
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-<p align="center">
-  <a href="https://sajjadr17.github.io/My-New-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-%2300C4CC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
-  </a>
-  
-  <a href="https://github.com/SajjadR17/Restaurant-Menu" target="_blank">
-    <img src="https://img.shields.io/badge/Restaurant%20Menu-%23FF9800.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="Restaurant Menu" />
-  </a>
-  
-  <a href="https://github.com/SajjadR17/ToDo-App" target="_blank">
-    <img src="https://img.shields.io/badge/ToDo%20List-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="ToDo App" />
-  </a>
-  
-  <a href="https://github.com/SajjadR17/JS-Projects" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript%20Projects-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Projects" />
-  </a>
-</p>
+⭐ **Thanks for visiting my profile!**  
+If you enjoy my projects, please **star** a repo and follow my journey 🚀  
 
-<!-- Profile auto-refreshed 🚀 -->
+</div>
