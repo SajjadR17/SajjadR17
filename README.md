@@ -32,18 +32,30 @@ I love turning design ideas into elegant front-end code and continuously improvi
 ---
 
 ## 🧠 Skills & Tools
-<div align="center">
 
-🧩 **Languages:**  
-`HTML5` • `CSS3` • `JavaScript (Learning)`  
+### 🧩 Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-🎨 **Design & Layout:**  
-`Flexbox` • `Grid` • `Responsive Design` • `Animations`  
+### 🎨 Design & Layout  
+<p align="left">
+  <img src="https://img.shields.io/badge/Flexbox-FF6F00?style=for-the-badge&logo=csswizardry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grid-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-00C853?style=for-the-badge&logo=responsive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Animations-9C27B0?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-🧰 **Tools:**  
-`VS Code` • `Git` • `GitHub` • `Netlify`
+### 🧰 Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
 
-</div>
 
 ---
 
