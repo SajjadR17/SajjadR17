@@ -62,7 +62,7 @@ I love turning design ideas into elegant front-end code and continuously improvi
 ---
 
 ## 🌐 Connect with Me  
-<div align="center">
+<div>
 
 <a href="https://sajjad-dev-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
