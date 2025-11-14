@@ -16,13 +16,13 @@ I love turning design ideas into elegant front-end code and continuously improvi
 <!-- ✨ Typing Animation Header -->
 <p align="center">
   <a href="https://sajjadroohandeh.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sajjad+Roohandeh;Front-End+Developer;Learning+JavaScript+and+DOM;Building+Modern+and+Responsive+Websites;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sajjad+Roohandeh;Front-End+Developer;Learning+JavaScript;Building+Modern+and+Responsive+Websites;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- 🌐 Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:sajjad.roohandeh@gmail.com"><img src="https://img.shields.io/badge/Email-fff?logo=gmail&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
+  <a href="mailto:Roohandehsredi6@gmail.com"><img src="https://img.shields.io/badge/Email-fff?logo=gmail&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
   <a href="https://www.linkedin.com/in/sajjad-roohandeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
   <a href="https://t.me/SajjadR17"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&labelColor=0f172a" /></a>
   <a href="https://sajjadroohandeh.com"><img src="https://img.shields.io/badge/Portfolio-8A8DFF?logo=vercel&logoColor=white&labelColor=0f172a" /></a>
