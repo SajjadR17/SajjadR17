@@ -6,6 +6,7 @@
 #  Hey, I'm **Sajjad Roohandeh**
 ### 💻 Front-End Developer | HTML • CSS • JavaScript Learner  
 ### Still learning JavaScript — my projects look done, but the real magic is yet to come ✨
+### I'm almost done with my JS course, i'm going to learn TS, React and Tailwind css after JS
 
 🧠 Focused on building **modern**, **responsive**, and **aesthetically clean** websites.  
 I love turning design ideas into elegant front-end code and continuously improving my skills.  
