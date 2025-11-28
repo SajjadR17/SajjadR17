@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌌 Hey, I'm **Sajjad Roohandeh**
+#  Hey, I'm **Sajjad Roohandeh**
 ### 💻 Front-End Developer | HTML • CSS • JavaScript Learner  
 ### Still learning JavaScript — my projects look done, but the real magic is yet to come ✨
 
