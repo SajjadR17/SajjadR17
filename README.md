@@ -1,5 +1,6 @@
+<div align="center"
 ![Last Updated](https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=blue)
-
+>
 <div align="center">
 
 #  Hey, I'm **Sajjad Roohandeh**
