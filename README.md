@@ -89,26 +89,86 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 🧊 GitHub Glass Stats
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
+<div align="center" style="
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+">
+
+  <!-- CARD 1 -->
+  <div style="
+    width: 48%;
+    background: rgba(12, 12, 20, 0.65);
+    border: 1px solid rgba(150, 150, 180, 0.4);
+    border-radius: 18px;
+    padding: 12px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+  ">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
+      style="width: 100%; height: 200px;"
+    />
+  </div>
+
+  <!-- CARD 2 -->
+  <div style="
+    width: 48%;
+    background: rgba(12, 12, 20, 0.65);
+    border: 1px solid rgba(150, 150, 180, 0.4);
+    border-radius: 18px;
+    padding: 12px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+  ">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent"
+      style="width: 100%; height: 200px;"
+    />
+  </div>
+
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3" 
-    width="48%" height="200"
-  />
+<div align="center" style="
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+">
+
+  <!-- CARD 3 -->
+  <div style="
+    width: 48%;
+    background: rgba(12, 12, 20, 0.65);
+    border: 1px solid rgba(150, 150, 180, 0.4);
+    border-radius: 18px;
+    padding: 12px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+  ">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent"
+      style="width: 100%; height: 200px;"
+    />
+  </div>
+
+  <!-- CARD 4 -->
+  <div style="
+    width: 48%;
+    background: rgba(12, 12, 20, 0.65);
+    border: 1px solid rgba(150, 150, 180, 0.4);
+    border-radius: 18px;
+    padding: 12px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+  ">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3"
+      style="width: 100%; height: 200px;"
+    />
+  </div>
+
 </div>
