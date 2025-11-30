@@ -91,76 +91,79 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 
 <div align="center" style="
-  padding: 16px;
-  border-radius: 16px;
+  padding: 12px;
+  border-radius: 14px;
   background: #0f172a;
   border: 1px solid #334155;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 ">
 
   <!-- Title -->
-  <div style="margin-bottom: 12px;">
-    <span style="font-size: 20px; font-weight: 600; color: #e2e8f0;">
+  <div style="margin-bottom: 10px;">
+    <span style="font-size: 18px; font-weight: 600; color: #e2e8f0;">
       GitHub Activity Overview
     </span>
-    <p style="margin: 4px 0 0; font-size: 13px; color: #94a3b8;">
-      Stats • Languages • Productive Hours
+    <p style="margin: 2px 0 0; font-size: 12px; color: #94a3b8;">
+      Stats • Languages • Coding Hours
     </p>
   </div>
 
-  <!-- Profile Details -->
+  <!-- Profile Details (small version) -->
   <div style="
     width: 100%;
     background: #1e293b;
     border-radius: 12px;
-    padding: 8px;
-    margin-bottom: 12px;
+    padding: 6px;
+    margin-bottom: 10px;
   ">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=tokyonight"
-      style="width: 100%;"
+      style="width: 100%; height: 180px; object-fit: cover;"
     />
   </div>
 
-  <!-- Stats + Languages -->
-  <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
+  <!-- Stats + Languages (reduced size) -->
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
 
   <div style="
-      width: 500px;
+      flex: 1 1 260px;
       background: #1e293b;
       border-radius: 12px;
-      padding: 8px;
-   ">
+      padding: 6px;
+    ">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=tokyonight"
-        style="width: 100%;"
+        style="width: 100%; height: 160px; object-fit: cover;"
       />
     </div>
 
-   <div style="
-      width: 500px;
+  <div style="
+      flex: 1 1 260px;
       background: #1e293b;
       border-radius: 12px;
-      padding: 8px;
-   ">
+      padding: 6px;
+    ">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=tokyonight"
-        style="width: 100%;"
+        style="width: 100%; height: 160px; object-fit: cover;"
       />
     </div>
 
   </div>
 
-  <!-- Productive Time -->
+  <!-- Productive Time (smaller) -->
   <div style="
     width: 100%;
     background: #1e293b;
     border-radius: 12px;
-    padding: 8px;
+    padding: 6px;
   ">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=tokyonight&utcOffset=3"
-      style="width: 100%;"
+      style="width: 100%; height: 160px; object-fit: cover;"
     />
   </div>
 
