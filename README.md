@@ -38,8 +38,8 @@ Hi! I’m Sajjad Roohandeh, a front-end web developer and a high school computer
 I’m currently learning JavaScript and focusing on building clean, responsive, and modern websites.
 
 - 💻 I love creating beautiful web interfaces using HTML, CSS, and JavaScript  
-- 🎯 Currently learning: DOM manipulation, functions, and arrays in JS  
-- 🌱 Future goals: learn React.js and improve front-end design skills  
+- 🎯 Currently learning: JS 
+- 🌱 Future goals: learn React , TS , Tailwind and improve front-end design skills after JS 
 - 💬 I enjoy combining design and code to bring ideas to life  
 - ✨ Motto: *“Clean code, clear mind.”*
 
@@ -60,12 +60,11 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 ## 🚀 Featured Projects
 | 🔗 Project | 💬 Description |
 |------------|----------------|
-| [🌐 **Portfolio Website**](https://sajjadroohandeh.com) | My personal portfolio showcasing my work and growth |
-| [📩 **Contact Us Form**](https://SajjadR17.github.io/contact-form/) | Responsive form with a clean glassmorphism look |
-| [🌐 **Product Page**](https://SajjadR17.github.io/modern-pricing-page/) | Responsive product page with inputs,imgs,button and ... |
-| [🔐 **Login Form**](https://SajjadR17.github.io/Login-Signup-Form/) | Animated login/signup UI built for practice |
-| [⏰ **Digital Clock**](#) | A simple and minimal digital clock built with HTML & CSS |
-
+| [**Portfolio Website**](https://sajjadroohandeh.com) | My personal portfolio showcasing my work and growth |
+| [**Contact Us Form**](https://SajjadR17.github.io/contact-form/) | Responsive form with a clean glassmorphism look and validation|
+| [**Shop Page**](https://SajjadR17.github.io/modern-shop-page/) | Responsive shop page with imgs,button and ... I will make it intractive in the future |
+| [**Login Form**](https://SajjadR17.github.io/modern-login-signup-page/) | Animated login/signup UI built for practice |
+| [**Comment Page**]([#](https://SajjadR17.github.io/modern-comment-page/)) | A simple and minimal Comment Page built with HTML & CSS & JS|
 
 
 ---
