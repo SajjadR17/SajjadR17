@@ -40,7 +40,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="mailto:Roohandehsredi6@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sajjad-roohandeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/web_sajjad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
