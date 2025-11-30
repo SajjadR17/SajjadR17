@@ -89,7 +89,42 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajjadR17&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadR17&theme=tokyonight&hide_border=true" height="150" />
-</p>
+## 🧊 GitHub Glass Stats
+
+<div align="center">
+  <div style="
+    padding: 18px;
+    border-radius: 18px;
+    background: rgba(15,23,42,0.65);
+    box-shadow: 0 18px 45px rgba(0,0,0,0.55);
+    border: 1px solid rgba(148,163,184,0.35);
+  ">
+
+
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent"
+      alt="GitHub Profile Details"
+      style="max-width: 100%; margin-bottom: 12px;"
+    />
+
+
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent"
+      alt="GitHub Stats"
+      style="max-width: 100%; margin-bottom: 12px;"
+    />
+
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent"
+      alt="Top Languages by Repo"
+      style="max-width: 100%; margin-bottom: 12px;"
+    />
+
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3"
+      alt="Productive Time"
+      style="max-width: 100%;"
+    />
+
+  </div>
+</div>
