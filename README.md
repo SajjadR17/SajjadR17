@@ -74,7 +74,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="httpsillicons.dev/icons?i=js" />
+  <img src="httpsillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
