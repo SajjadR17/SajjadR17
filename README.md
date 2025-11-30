@@ -89,26 +89,80 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 🧊 GitHub Glass Stats
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
-</div>
+## 🧊 GitHub Dashboard
 
-<br/>
+<div align="center" style="
+  padding: 16px;
+  border-radius: 16px;
+  background: #0f172a;
+  border: 1px solid #334155;
+  margin-bottom: 20px;
+">
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent" 
-    width="48%" height="200"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3" 
-    width="48%" height="200" background-color="gray"
-  />
+  <!-- Title -->
+  <div style="margin-bottom: 12px;">
+    <span style="font-size: 20px; font-weight: 600; color: #e2e8f0;">
+      GitHub Activity Overview
+    </span>
+    <p style="margin: 4px 0 0; font-size: 13px; color: #94a3b8;">
+      Stats • Languages • Productive Hours
+    </p>
+  </div>
+
+  <!-- Profile Details -->
+  <div style="
+    width: 100%;
+    background: #1e293b;
+    border-radius: 12px;
+    padding: 8px;
+    margin-bottom: 12px;
+  ">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=tokyonight"
+      style="width: 100%;"
+    />
+  </div>
+
+  <!-- Stats + Languages -->
+  <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
+
+    <div style="
+      flex: 1 1 260px;
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 8px;
+    ">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=tokyonight"
+        style="width: 100%;"
+      />
+    </div>
+
+    <div style="
+      flex: 1 1 260px;
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 8px;
+    ">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=tokyonight"
+        style="width: 100%;"
+      />
+    </div>
+
+  </div>
+
+  <!-- Productive Time -->
+  <div style="
+    width: 100%;
+    background: #1e293b;
+    border-radius: 12px;
+    padding: 8px;
+  ">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=tokyonight&utcOffset=3"
+      style="width: 100%;"
+    />
+  </div>
+
 </div>
