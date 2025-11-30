@@ -87,9 +87,8 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ---
 
-## 🧊 GitHub Glass Stats
+## 🧊 GitHub Stats
 
-## 🧊 GitHub Dashboard
 
 <div align="center" style="
   padding: 16px;
@@ -126,24 +125,24 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <!-- Stats + Languages -->
   <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
 
-    <div style="
+  <div style="
       flex: 1 1 260px;
       background: #1e293b;
       border-radius: 12px;
       padding: 8px;
-    ">
+   ">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=tokyonight"
         style="width: 100%;"
       />
     </div>
 
-    <div style="
+   <div style="
       flex: 1 1 260px;
       background: #1e293b;
       border-radius: 12px;
       padding: 8px;
-    ">
+   ">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=tokyonight"
         style="width: 100%;"
