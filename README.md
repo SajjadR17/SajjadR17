@@ -97,27 +97,4 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
     style="width: 100%; max-width: 800px; border-radius: 12px;"
   />
 
-  <br/><br/>
-
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=tokyonight"
-      style="width: 48%; min-width: 280px; border-radius: 12px;"
-    />
-
-  <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=tokyonight"
-      style="width: 48%; min-width: 280px; border-radius: 12px;"
-    />
-
-  </div>
-
-  <br/>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=tokyonight&utcOffset=3"
-    style="width: 100%; max-width: 800px; border-radius: 12px;"
-  />
-
 </div>
