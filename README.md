@@ -90,33 +90,25 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 ## 🧊 GitHub Glass Stats
 
 <div align="center">
-
-  <!-- Profile Details + Stats Side-by-side -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
-    height="200"
+    width="48%" 
   />
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" 
-    height="200"
+    width="48%" 
   />
-
 </div>
 
 <br/>
 
 <div align="center">
-
-  <!-- Top Languages + Commits (UTC) Side-by-side -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent" 
-    height="200"
+    width="48%" 
   />
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3" 
-    height="200"
+    width="48%" 
   />
-
 </div>
