@@ -64,7 +64,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 | [**Contact Us Form**](https://SajjadR17.github.io/contact-form/) | Responsive form with a clean glassmorphism look and validation|
 | [**Shop Page**](https://SajjadR17.github.io/modern-shop-page/) | Responsive shop page with imgs,button and ... I will make it intractive in the future |
 | [**Login Form**](https://SajjadR17.github.io/modern-login-signup-page/) | Animated login/signup UI built for practice |
-| [**Comment Page**]([#](https://SajjadR17.github.io/modern-comment-page/)) | A simple and minimal Comment Page built with HTML & CSS & JS|
+| [**Comment Page**](https://SajjadR17.github.io/modern-comment-page/) | A simple and minimal Comment Page built with HTML & CSS & JS|
 
 
 ---
