@@ -92,11 +92,11 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 <div align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
-    width="48%" height="300px"
+    width="48%" height="200"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" 
-    width="48%" 
+    width="48%" height="200"
   />
 </div>
 
@@ -105,10 +105,10 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 <div align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent" 
-    width="48%" 
+    width="48%" height="200"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajjadR17&theme=transparent&utcOffset=3" 
-    width="48%" 
+    width="48%" height="200"
   />
 </div>
