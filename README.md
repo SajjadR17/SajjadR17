@@ -32,7 +32,7 @@ I love turning design ideas into elegant front-end code and continuously improvi
 
 ---
 
-## 👋 About Me
+<div align="center"> ## 👋 About Me </div>
 
 Hi! I’m Sajjad Roohandeh, a front-end web developer and a high school computer science student from Iran 🇮🇷.  
 I’m currently learning JavaScript and focusing on building clean, responsive, and modern websites.
@@ -45,7 +45,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-## 📊 GitHub Stats
+<div align="center"> ## 📊 GitHub Stats </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SajjadR17&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -57,7 +57,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-## 🚀 Featured Projects
+<div align="center"> ## 🚀 Featured Projects </div>
 | 🔗 Project | 💬 Description |
 |------------|----------------|
 | [**Portfolio Website**](https://sajjadroohandeh.com) | My personal portfolio showcasing my work and growth |
@@ -69,7 +69,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-### Skills
+<div align="center"> ### Skills </div>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
@@ -84,7 +84,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-### Will Learn
+<div align="center"> ### Will Learn </div>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
@@ -94,7 +94,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-## 🌐 Connect with Me  
+<div align="center"> ## 🌐 Connect with Me </div>
 <div>
 
 <a href="https://sajjadroohandeh.com" target="_blank">
@@ -114,7 +114,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-## ⚡ Quote of the Day  
+<div align="center"> ## ⚡ Quote of the Day </div>
 > “Dream in code, design in color, and build with patience.” 🌙  
 
 ---
