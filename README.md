@@ -74,7 +74,7 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="httpsillicons.dev/icons?i=js" />
+  <img src="https://illicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
@@ -125,6 +125,12 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 If you enjoy my projects, please **star** a repo and follow my journey 🚀  
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajjadR17/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajjadR17/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SajjadR17/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/wave.gif" width="100%" />
 
