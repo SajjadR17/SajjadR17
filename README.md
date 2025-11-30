@@ -92,7 +92,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 <div align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" 
-    width="48%" 
+    width="48%" height="300px"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" 
