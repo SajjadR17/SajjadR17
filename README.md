@@ -11,7 +11,7 @@
 🧠 Focused on building **modern**, **responsive**, and **aesthetically clean** websites.  
 I love turning design ideas into elegant front-end code and continuously improving my skills.  
 
-</div>
+
 
 ---
 
@@ -132,4 +132,5 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 ⭐ **Thanks for visiting my profile!**  
 If you enjoy my projects, please **star** a repo and follow my journey 🚀  
 
+</div>
 </div>
