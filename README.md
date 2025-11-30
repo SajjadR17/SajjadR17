@@ -24,10 +24,10 @@ I love turning design ideas into elegant front-end code and continuously improvi
 
 <!-- 🌐 Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:Roohandehsredi6@gmail.com"><img src="https://img.shields.io/badge/Email-fff?logo=gmail&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
-  <a href="https://www.linkedin.com/in/sajjad-roohandeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
-  <a href="https://t.me/SajjadR17"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
-  <a href="https://sajjadroohandeh.com"><img src="https://img.shields.io/badge/Portfolio-8A8DFF?logo=vercel&logoColor=EA4335&labelColor=0f172a&color=0f172a" /></a>
+  <a href="mailto:Roohandehsredi6@gmail.com"><img src="https://img.shields.io/badge/Email-fff?logo=gmail&logoColor=white&labelColor=0f172a&color=0f172a" /></a>
+  <a href="https://www.linkedin.com/in/sajjad-roohandeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=0f172a&color=0f172a" /></a>
+  <a href="https://t.me/SajjadR17"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&labelColor=0f172a&color=0f172a" /></a>
+  <a href="https://sajjadroohandeh.com"><img src="https://img.shields.io/badge/Portfolio-8A8DFF?logo=vercel&logoColor=white&labelColor=0f172a&color=0f172a" /></a>
 </p>
 
 ---
