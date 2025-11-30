@@ -126,7 +126,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
 
   <div style="
-      flex: 1 1 260px;
+      width: 500px;
       background: #1e293b;
       border-radius: 12px;
       padding: 8px;
@@ -138,7 +138,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
     </div>
 
    <div style="
-      flex: 1 1 260px;
+      width: 500px;
       background: #1e293b;
       border-radius: 12px;
       padding: 8px;
