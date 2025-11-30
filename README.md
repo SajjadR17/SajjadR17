@@ -69,36 +69,28 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 
 ---
 
-## 🧠 Skills & Tools
+### Skills
 
-### 🧩 Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript(learning)-9C27B0?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React(learning)-1572B6?style=for-the-badge&logo=React&logoColor=blank"/>
-  <img src="https://img.shields.io/badge/tailwind(learning)-00C853?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="httpsillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-### 🎨 Design & Layout  
-<p align="left">
-  <img src="https://img.shields.io/badge/Flexbox-FF6F00?style=for-the-badge&logo=csswizardry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grid-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-00C853?style=for-the-badge&logo=responsive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Animations-9C27B0?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
+---
 
-### 🧰 Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+### Will Learn
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
 ---
 
@@ -133,4 +125,10 @@ I’m currently learning JavaScript and focusing on building clean, responsive, 
 If you enjoy my projects, please **star** a repo and follow my journey 🚀  
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
