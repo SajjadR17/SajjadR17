@@ -4,7 +4,7 @@
 <div align="center">
 
 #  Hey, I'm **Sajjad Roohandeh**
-### 💻 Front-End Developer | HTML • CSS • JavaScript • Tailwind
+### 💻 Front-End Developer | HTML • CSS • JavaScript 
 ### Still learning JavaScript — my projects look done, but the real magic is yet to come ✨
 ### I'm almost done with my JS course, i'm going to learn TypeScript, React and Tailwind css after JS
 
