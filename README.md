@@ -58,6 +58,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=js"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=gitlab"/>
   <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=postman"/>
