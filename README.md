@@ -4,9 +4,13 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=8A8DFF">  
 </p>
+
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 </div>
+
+
 <div align="center">
 
 # 👋 Hey, I'm Sajjad Roohandeh
