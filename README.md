@@ -104,7 +104,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SajjadR17&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SajjadR17&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" width="100%" />
