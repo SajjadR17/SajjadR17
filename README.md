@@ -98,4 +98,6 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
     style="width: 100%; max-width: 800px; border-radius: 12px;"
   />
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
+
 </div>
