@@ -2,9 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Sajjad%20Roohandeh&fontSize=45&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=8A8DFF">
-    ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
+  <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=8A8DFF">  
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 
 <div align="center">
 
