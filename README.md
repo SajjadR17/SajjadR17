@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=8A8DFF">
+    ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 </p>
 
 <div align="center">
@@ -98,7 +99,6 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
     style="width: 100%; max-width: 800px; border-radius: 12px;"
   />
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 
 </div>
 
@@ -109,5 +109,3 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 ## 📊 GitHub Stats  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajjadR17&theme=transparent" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajjadR17&theme=transparent" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=transparent" />
