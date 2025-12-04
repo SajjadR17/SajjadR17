@@ -66,12 +66,13 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ---
 
-## 📚 Will Learn (Next)
+## 📚 Will Learn (Learning)
 
 <p>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=vite"/>
 </p>
