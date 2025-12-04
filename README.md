@@ -20,7 +20,7 @@ Turning ideas into real UI is my favorite part of coding.
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Learning+JavaScript;Creating+Modern+Responsive+Websites;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Learning+React JS;Creating+Modern+Responsive+Websites;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
@@ -72,9 +72,9 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=vite"/>
+  <img src="https://skillicons.dev/icons?i=npm"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </p>
 
 ---
