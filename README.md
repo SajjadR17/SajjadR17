@@ -60,7 +60,6 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://skillicons.dev/icons?i=sass"/>
-    <img src="https://skillicons.dev/icons?i=seo"/>
 </p>
 
 ---
@@ -74,6 +73,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=vite"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=seo"/>
 </p>
 
 ---
