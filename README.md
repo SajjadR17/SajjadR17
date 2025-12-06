@@ -73,7 +73,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=vite"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img src="https://img.icons8.com/color/48/seo.png" width="48" />
+  <img src="https://svgshare.com/i/15uF.svg" width="48" />
 </p>
 
 ---
