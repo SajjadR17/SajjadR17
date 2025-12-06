@@ -73,11 +73,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=vite"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img width="48" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'>
-  <rect width='64' height='64' rx='12' fill='%230083ff'/>
-  <text x='50%' y='50%' font-size='26' font-family='Arial' fill='white' dy='.35em' text-anchor='middle'>SEO</text>
-</svg>"/>
+  <img src="seo.svg" width="48" />
 </p>
 
 ---
