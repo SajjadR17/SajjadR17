@@ -66,7 +66,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ---
 
-## 📚 Will Learn OR (Learning)
+## 📚 Will Learn OR (Learning) IN ORDER
 
 <p>
   <img src="https://skillicons.dev/icons?i=react"/>
