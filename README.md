@@ -47,7 +47,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ---
 
-## 🧰 Skills (What I Know)
+## 🧰 Skills and Tools (What I Know)
 
 <p>
   <img src="https://skillicons.dev/icons?i=html"/>
