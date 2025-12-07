@@ -61,7 +61,9 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://skillicons.dev/icons?i=sass"/>
   <img src="https://skillicons.dev/icons?i=netlify"/>
-  <img src="https://skillicons.dev/icons?i=vercal"/>
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+  <img src="https://skillicons.dev/icons?i=prettier"/>
+  <img src="https://skillicons.dev/icons?i=eslint"/>
 </p>
 
 ---
@@ -70,12 +72,17 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 <p>
   <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=reactrouter"/>
+  <img src="https://skillicons.dev/icons?i=redux"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
   <img src="https://skillicons.dev/icons?i=vite"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=docker"/>
+  <img src="https://skillicons.dev/icons?i=mangodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=nextjs"/>
   <img src="seo.svg" width="50" />
 </p>
 
