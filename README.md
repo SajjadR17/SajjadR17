@@ -6,7 +6,7 @@
 
 # 👋 Hey, I'm Sajjad Roohandeh
 ### 💻 Front-End Developer  
-### Learning JavaScript → Then React, TypeScript & Tailwind ✨
+### Learning JavaScript and API → Then React, TypeScript & Tailwind ✨
 
 I focus on building modern, responsive, and clean web interfaces.  
 Turning ideas into real UI is my favorite part of coding.
@@ -17,7 +17,7 @@ Turning ideas into real UI is my favorite part of coding.
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Learning+JS+and+API;My+JS+course+Will+End+Soon;Will+learn+React+and+TypeScript;Creating+Modern+Responsive+Websites;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Learning+JS+and+API;My+JS+course+will+end+soon;Will+learn+React+and+TypeScript;Creating+Modern+Responsive+Websites;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
