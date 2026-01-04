@@ -15,7 +15,7 @@ Turning ideas into real UI is my favorite part of coding.
 
 ---
 
-<!-- ============ TYPING ANIMATION ============ -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Happy+New+Year;Frontend+Developer;Learning+JS+and+API;My+JS+course+will+end+soon;Will+learn+React+and+TypeScript;Creating+Modern+Responsive+Websites;Welcome+to+My+GitHub+Profile!" />
 </p>
