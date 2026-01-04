@@ -85,7 +85,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 | 🔗 Project | 💬 Description |
 |------------|----------------|
