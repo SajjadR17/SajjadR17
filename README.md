@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Sajjad Roohandeh
 ### 💻 Front-End Developer  
-### Learning JavaScript and API → Then React, TypeScript & Tailwind ✨ 
+### Learning React and TypeScript → Then Tailwind ✨ 
 ### You can see my learning path below.
 
 I focus on building modern, responsive, and clean web interfaces.  
@@ -28,8 +28,8 @@ Hi! I’m Sajjad, a front-end developer and high school computer science student
 I’m currently learning JavaScript and improving my UI/UX & responsive design skills.
 
 - 💻 Love building beautiful web interfaces  
-- 🎯 Currently learning: JavaScript  
-- 🌱 Next goals: React • TypeScript • Tailwind  
+- 🎯 Currently learning: React and TypeScript
+- 🌱 Next goals: Tailwind  
 - ✨ Motto: *“Clean code, clear mind.”*  
 - 🚀 Dreaming to become a world-class front-end engineer  
 
