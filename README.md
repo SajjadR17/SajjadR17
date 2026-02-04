@@ -17,7 +17,7 @@ Turning ideas into real UI is my favorite part of coding.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Frontend+Developer;Learning+React+and+TypeScript;Will+learn+Tailwind;Creating+Modern+Responsive+Websites;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Frontend+Developer;Learning+React+and+TypeScript;Will+learn+Tailwind;Creating+Modern+Responsive+Websites;Hello" />
 </p>
 
 ---
