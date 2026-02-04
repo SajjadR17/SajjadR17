@@ -74,12 +74,12 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=vite"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
-  <img src="https://skillicons.dev/icons?i=nextjs"/>
-  <img src="https://skillicons.dev/icons?i=docker"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=nextjs"/>
   <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=docker"/>
   <img src="seo.svg" width="50" />
 </p>
 
