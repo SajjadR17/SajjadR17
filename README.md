@@ -61,7 +61,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://skillicons.dev/icons?i=sass"/>
   <img src="https://skillicons.dev/icons?i=netlify"/>
-  <img src="https://skillicons.dev/icons?i=vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel"/> 
   <img src="https://skillicons.dev/icons?i=linux"/>
   <img src="https://skillicons.dev/icons?i=ubuntu"/>
 </p>
