@@ -89,13 +89,13 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 
 ## 🚀 Featured Projects 
 
-| 🔗 Project | 💬 Description |
-|------------|----------------|
-| [Portfolio Website](https://sajjadroohandeh.com) | My personal portfolio showcasing all my work |
-| [Contact Form](https://sajjadr17.github.io/contact-form/) | Glassmorphism form with validation |
-| [Shop Page](https://sajjadr17.github.io/modern-shop-page/) | Responsive shop layout — will be interactive soon |
-| [Login / Signup](https://sajjadr17.github.io/modern-login-signup-page/) | Modern animated login UI |
-| [Comment Page](https://sajjadr17.github.io/modern-comment-page/) | Minimal comment UI built with HTML/CSS/JS |
+| 🔗 Project |
+|------------|
+| [Portfolio Website](https://sajjadroohandeh.com) |
+| [Football Hub](https://sajjadr17.github.io/modern-api-football-page/) | 
+| [Advanced Quiz app](https://sajjadr17.github.io/quiz-app/) |
+| [React Contact Managment](https://sajjadr17.github.io/contact-app/) |
+| [Comment Page](https://sajjadr17.github.io/modern-comment-page/) |
 
 ---
 
