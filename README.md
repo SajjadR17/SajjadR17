@@ -53,6 +53,10 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=redux"/>
+  <img src="https://skillicons.dev/icons?i=vite"/>
+  <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
   <img src="https://skillicons.dev/icons?i=gitlab"/>
@@ -71,10 +75,7 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 ## 📚 Will Learn OR Learning In Order (Learning React)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=redux"/>
-  <img src="https://skillicons.dev/icons?i=vite"/>
-  <img src="https://skillicons.dev/icons?i=npm"/>
+  
   <img src="https://skillicons.dev/icons?i=typescript"/>
   <img src="https://skillicons.dev/icons?i=nextjs"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
