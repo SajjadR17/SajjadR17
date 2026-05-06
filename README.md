@@ -11,6 +11,14 @@
 I focus on building modern, responsive, and clean web interfaces.  
 Turning ideas into real UI is my favorite part of coding. 
 
+## 🚧 Work In Progress
+
+Multiple React projects — from small experiments to larger applications — are on the roadmap.
+
+Development is temporarily slower due to connectivity limitations, but new projects will be published soon.
+
+Thanks for your patience 🙌
+
 </div>
 
 ---
