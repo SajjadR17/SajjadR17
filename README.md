@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Sajjad Roohandeh
 ### 💻 Front-End Developer  
-### Learning React and TypeScript → Then Tailwind ✨  
+### Learning TypeScript → Then Nextjs ✨  
 ### You can see my learning path below.
 
 I focus on building modern, responsive, and clean web interfaces.  
@@ -25,7 +25,7 @@ Thanks for your patience 🙌
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Frontend+Developer;Learning+React+and+TypeScript;Will+learn+Tailwind;Creating+Modern+Responsive+Websites;Hello" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Helli;Welcome+to+My+GitHub+Profile!;Frontend+Developer;Learning+TypeScript;Will+learn+Nextjs;Creating+Modern+Responsive+Websites" />
 </p>
 
 ---
