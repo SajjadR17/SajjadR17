@@ -102,9 +102,9 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 |------------|-------------|
 | [Portfolio Website](https://sajjadroohandeh.com) | A modern, responsive personal portfolio showcasing my journey, skills, and projects |
 | [Football Hub](https://sajjadr17.github.io/modern-api-football-page/) | Dynamic football dashboard featuring live scores and league stats via REST API integration |
-| [Advanced Quiz app](https://sajjadr17.github.io/quiz-app/) | Interactive quiz platform with real-time scoring, progress tracking, and category selection |
+| [Calculator app](https://sajjadr17.github.io/calculator-app/) | A modern calculator  |
 | [React Contact Managment](https://sajjadr17.github.io/contact-app-react/) |  Full-featured CRUD application for managing contacts with a clean, intuitive UI |
-| [Comment Page](https://sajjadr17.github.io/modern-comment-page/) | Lightweight and accessible comment system built with a focus on modern UI/UX patterns |
+| [modern to-do-list app](https://sajjadr17.github.io/modern-to-do-list/) | Interactive to-do-list app with drag and drop, animations, delete, add, edit and ... |
 
 ---
 
