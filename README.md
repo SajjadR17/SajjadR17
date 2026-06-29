@@ -15,8 +15,6 @@ Turning ideas into real UI is my favorite part of coding.
 
 Multiple React projects — from small experiments to larger applications — are on the roadmap.
 
-Development is temporarily slower due to connectivity limitations, but new projects will be published soon.
-
 Thanks for your patience 🙌
 
 </div>
@@ -93,18 +91,6 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
   <img src="https://skillicons.dev/icons?i=docker"/>
   <img src="seo.svg" width="50" />
 </p>
-
----
-
-## 🚀 Featured Projects 
-
-| 🔗 Project | Description |
-|------------|-------------|
-| [Portfolio Website](https://sajjadroohandeh.com) | A modern, responsive personal portfolio showcasing my journey, skills, and projects |
-| [Football Hub](https://sajjadr17.github.io/modern-api-football-page/) | Dynamic football dashboard featuring live scores and league stats via REST API integration |
-| [Calculator app](https://sajjadr17.github.io/calculator-app/) | A modern calculator  |
-| [React Contact Managment](https://sajjadr17.github.io/contact-app-react/) |  Full-featured CRUD application for managing contacts with a clean, intuitive UI |
-| [modern to-do-list app](https://sajjadr17.github.io/modern-to-do-list/) | Interactive to-do-list app with drag and drop, animations, delete, add, edit and ... |
 
 ---
 
