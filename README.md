@@ -31,7 +31,7 @@ Thanks for your patience 🙌
 ## 👨‍💻 About Me
 
 Hi! I’m Sajjad, a front-end developer and high school computer science student from Iran 🇮🇷.  
-I’m currently learning JavaScript and improving my UI/UX & responsive design skills.
+I’m currently creating react projects and improving my UI/UX & responsive design skills.
 
 - 💻 Love building beautiful web interfaces  
 - 🎯 Currently: creating projects
@@ -97,14 +97,6 @@ I’m currently learning JavaScript and improving my UI/UX & responsive design s
 ## 🧊 GitHub Dashboard
 
 <div align="center">
-
-  <!-- big card -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadR17&theme=tokyonight"
-    style="width: 100%; max-width: 800px; border-radius: 12px;"
-  />
-
-  <br/><br/>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 
