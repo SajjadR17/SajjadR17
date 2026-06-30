@@ -78,7 +78,7 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
 
 ---
 
-## 📚 Will Learn OR Learning In Order (Learning React)
+## 📚 Will Learn OR Learning In Order
 
 <p>
   
