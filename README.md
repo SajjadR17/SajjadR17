@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Sajjad%20Roohandeh&fontSize=45&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
+---
 
-<div align="center">
+<div>
 
 # 👋 Hey, I'm Sajjad Roohandeh - Front-End Developer  
 ### Creating projects → Then Typescript and Nextjs ✨  
@@ -61,7 +62,6 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
   <img src="https://skillicons.dev/icons?i=npm"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=gitlab"/>
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://skillicons.dev/icons?i=sass"/>
