@@ -2,6 +2,8 @@
 
 <div>
 
+---
+
 ### Hey, I'm Sajjad Roohandeh - Front-End Developer  
 ### Creating projects → Then Typescript and Nextjs ✨  
 ### You can see my learning path below.
@@ -86,8 +88,6 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
 </p>
 
 ---
-
-## 🧊 GitHub Dashboard
 
 <div align="center">
 
