@@ -35,7 +35,7 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
 
 - 💻 Love building beautiful web interfaces  
 - 🎯 Currently: creating projects
-- 🌱 Next goals: React and TypeScript  
+- 🌱 Next goals: TypeScript and NextJS  
 - ✨ Motto: *“Clean code, clear mind.”*  
 - 🚀 Dreaming to become a world-class front-end engineer  
 
@@ -66,7 +66,6 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
   <img src="https://skillicons.dev/icons?i=gitlab"/>
-  <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://skillicons.dev/icons?i=sass"/>
