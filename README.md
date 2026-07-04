@@ -3,18 +3,14 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Sajjad Roohandeh
-## Front-End Developer  
+# 👋 Hey, I'm Sajjad Roohandeh - Front-End Developer  
 ### Creating projects → Then Typescript and Nextjs ✨  
 ### You can see my learning path below.
 
 I focus on building modern, responsive, and clean web interfaces.  
 Turning ideas into real UI is my favorite part of coding. 
 
-## 🚧 Work In Progress
-
 Multiple React projects — from small experiments to larger applications — are on the roadmap.
-
 Thanks for your patience 🙌
 
 </div>
