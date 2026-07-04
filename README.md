@@ -4,7 +4,7 @@
 
 <div>
 
-# 👋 Hey, I'm Sajjad Roohandeh - Front-End Developer  
+# Hey, I'm Sajjad Roohandeh - Front-End Developer  
 ### Creating projects → Then Typescript and Nextjs ✨  
 ### You can see my learning path below.
 
