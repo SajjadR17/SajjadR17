@@ -4,7 +4,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Sajjad Roohandeh
-### 💻 Front-End Developer  
+## Front-End Developer  
 ### Creating projects → Then Typescript and Nextjs ✨  
 ### You can see my learning path below.
 
