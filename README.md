@@ -92,7 +92,7 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
 
   ![Profile Views](https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge)
 
-  <p align="center">
+  <p>
   <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=8A8DFF">
 </p>
 
