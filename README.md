@@ -68,6 +68,8 @@ I’m currently creating react projects and improving my UI/UX & responsive desi
   <img src="https://skillicons.dev/icons?i=vercel"/> 
   <img src="https://skillicons.dev/icons?i=linux"/>
   <img src="https://skillicons.dev/icons?i=ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=firestore"/>
 </p>
 
 ---
