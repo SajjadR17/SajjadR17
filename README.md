@@ -15,9 +15,7 @@ Frontend Developer • React Developer • UI Enthusiast
 # 👨‍💻 About Me
 
 I'm **Sajjad Roohandeh**, a Front-End Developer and Computer Science student from **Iran 🇮🇷**.
-
 I enjoy creating beautiful, modern and responsive web applications using React.
-
 My goal is to become a world-class Front-End Engineer while continuously learning modern technologies.
 
 - 💻 Building React Projects
@@ -26,18 +24,6 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 - 🚀 Then: Next.js
 - ✨ Clean Code Lover
 - 📱 Responsive Design Enthusiast
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech | Status |
-|----------|------|--------|
-| 🛒 Ecommerce Website | React | ✅ |
-| 🎬 Movie App | React + API | ✅ |
-| 🌦 Weather App | React | ✅ |
-| 💼 Portfolio | React | ✅ |
-| 📋 Todo App | React | ✅ |
 
 ---
 
@@ -145,21 +131,16 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # 💭 Favorite Quote
 
-> **"First, solve the problem. Then, write the code."**
->
-> — John Johnson
+**"First, solve the problem. Then, write the code."**
+
+ John Johnson
 
 ---
 <p>
-
 <img src="https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge"/>
-
 </p>
-
 <p>
-
 <img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?style=for-the-badge&label=Last%20Updated&color=8A8DFF"/>
-
 </p>
 
 ---
