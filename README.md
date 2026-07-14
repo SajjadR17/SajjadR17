@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Hello;Welcome+to+My+GitHub+Profile!;Frontend+Developer;Creating+projects;Will+learn+Typescript+and+Nextjs;Creating+Modern+Responsive+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Hello;Welcome+to+My+GitHub+Profile!;Frontend+Developer;Creating+projects;Will+learn+Typescript+and+Nextjs;Creating+Modern+Responsive+Websites" />
 </p>
 
 ---
