@@ -41,24 +41,6 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SajjadR17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadR17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SajjadR17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🧰 Skills
 
 <p>
@@ -101,7 +83,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # 📚 Learning Roadmap
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=typescript"/>
 
@@ -135,7 +117,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:Roohandehsredi6@gmail.com">
 <img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -168,29 +150,6 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 > — John Johnson
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SajjadR17/SajjadR17/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadR17&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
 <p>
 
 <img src="https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge"/>
@@ -205,12 +164,10 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-<p align="center">
+<p>
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-If you like my work, don't forget to **⭐ Star** my repositories.
+If you like my work, don't forget to **Star** my repositories.
 
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=150&section=footer"/>
