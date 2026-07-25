@@ -12,7 +12,7 @@ Frontend Developer • React Developer • UI Enthusiast
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm **Sajjad Roohandeh**, a Front-End Developer and Computer Science student from **Iran 🇮🇷**.
 I enjoy creating beautiful, modern and responsive web applications using React.
@@ -27,7 +27,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 🧰 Skills
+# Skills
 
 <p>
 
@@ -67,7 +67,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 📚 Learning Roadmap
+# Learning Roadmap
 
 <p>
 
@@ -91,7 +91,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 🎯 Currently Working On
+# Currently Working On
 
 - 🚀 Building Modern React Projects
 - 📱 Improving Responsive Design
@@ -101,7 +101,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p>
 
@@ -129,7 +129,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-# 💭 Favorite Quote
+# Favorite Quote
 
 **"First, solve the problem. Then, write the code."**
 
