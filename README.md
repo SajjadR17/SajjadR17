@@ -7,7 +7,7 @@ Frontend Developer • React Developer • UI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Building+Modern+React+Projects;Learning+TypeScript+and+Next.js;Clean+Code+%7C+Responsive+UI+%7C+Performance" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Building+Modern+React+Projects;Learning+TypeScript;Clean+Code+%7C+Responsive+UI+%7C+Performance" />
 </p>
 
 ---
@@ -15,13 +15,11 @@ Frontend Developer • React Developer • UI Enthusiast
 # About Me
 
 I'm **Sajjad Roohandeh**, a Front-End Developer and Computer Science student from **Iran 🇮🇷**.
-I enjoy creating beautiful, modern and responsive web applications using React.
+I enjoy creating beautiful, modern and responsive web applications using React and TS.
 My goal is to become a world-class Front-End Engineer while continuously learning modern technologies.
 
-- 💻 Building React Projects
-- 🌱 Learning Advanced React
-- 🎯 Next Goal: TypeScript
-- 🚀 Then: Next.js
+- 💻 Learning Typescript
+- 🎯 Next Goal: Next.js
 - ✨ Clean Code Lover
 - 📱 Responsive Design Enthusiast
 
@@ -93,10 +91,9 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # Currently Working On
 
-- 🚀 Building Modern React Projects
+- 🚀 Learning Typescript
 - 📱 Improving Responsive Design
-- ⚡ Learning Advanced React Patterns
-- 📖 Preparing to Learn TypeScript
+- 📖 Preparing to Learn Next.js
 - 🔥 Expanding My Portfolio
 
 ---
