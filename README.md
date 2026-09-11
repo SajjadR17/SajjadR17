@@ -37,6 +37,8 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
 <img src="https://skillicons.dev/icons?i=redux"/>
 
 <img src="https://skillicons.dev/icons?i=vite"/>
@@ -50,8 +52,6 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 <img src="https://skillicons.dev/icons?i=github"/>
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
@@ -72,8 +72,6 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 <img src="https://skillicons.dev/icons?i=typescript"/>
 
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
 
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
