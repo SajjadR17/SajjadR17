@@ -131,11 +131,9 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
  John Johnson
 
 ---
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=SajjadR17&style=for-the-badge"/>
-</p>
-<p>
-<img src="https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?style=for-the-badge&label=Last%20Updated/>
 </p>
 
 ---
