@@ -7,7 +7,7 @@ Frontend Developer • React Developer • UI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Building+Modern+React+Projects;Learning+TypeScript;Clean+Code+%7C+Responsive+UI+%7C+Performance" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8A8DFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Building+Modern+React+Projects;Learning+TypeScript+%26+Next.js;Clean+Code+%7C+Responsive+UI+%7C+Performance" />
 </p>
 
 ---
@@ -15,13 +15,16 @@ Frontend Developer • React Developer • UI Enthusiast
 # About Me
 
 I'm **Sajjad Roohandeh**, a Front-End Developer and Computer Science student from **Iran 🇮🇷**.
-I enjoy creating beautiful, modern and responsive web applications using React and TS.
-My goal is to become a world-class Front-End Engineer while continuously learning modern technologies.
 
-- 💻 Learning Typescript
+I enjoy building modern, responsive and user-focused web applications with React and TypeScript.
+
+I'm focused on improving my Front-End engineering skills through real-world projects, clean architecture and continuous learning.
+
+- 💻 Frontend Development
+- ⚛️ React & TypeScript
+- 🎨 UI & Responsive Design
+- 🚀 Currently learning Supabase, postgreSQL
 - 🎯 Next Goal: Next.js
-- ✨ Clean Code Lover
-- 📱 Responsive Design Enthusiast
 
 ---
 
@@ -35,17 +38,21 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 <img src="https://skillicons.dev/icons?i=js"/>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 
 <img src="https://skillicons.dev/icons?i=redux"/>
 
 <img src="https://skillicons.dev/icons?i=vite"/>
 
-<img src="https://skillicons.dev/icons?i=sass"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
 <img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -65,23 +72,23 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
+# Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
 # Learning Roadmap
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="seo.svg" width="50"/>
 
 </p>
 
@@ -89,10 +96,26 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # Currently Working On
 
-- 🚀 Learning Typescript
-- 📱 Improving Responsive Design
-- 📖 Preparing to Learn Next.js
+- 🚀 Building React + TypeScript projects
+- 🗄️ Learning PostgreSQL & Supabase
+- 🔄 Implementing realtime features
+- 🎨 Improving UI/UX and responsive design
+- 🧱 Improving Frontend architecture
 - 🔥 Expanding My Portfolio
+
+---
+
+# Featured Project
+
+### DevBoard
+
+A project management dashboard built with modern Frontend technologies.
+
+**Tech Stack:**
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Realtime`
+
+Currently building and improving the project with authentication, workspaces, projects, tasks and realtime data synchronization.
 
 ---
 
@@ -126,9 +149,9 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 # Favorite Quote
 
-**"First, solve the problem. Then, write the code."**
+> **"First, solve the problem. Then, write the code."**
 
- John Johnson
+— John Johnson
 
 ---
 
@@ -138,7 +161,7 @@ My goal is to become a world-class Front-End Engineer while continuously learnin
 
 ---
 
-<p>
+<p align="center">
 
 ### Thanks for visiting my profile!
 
