@@ -28,7 +28,7 @@ I'm focused on improving my Front-End engineering skills through real-world proj
 
 ---
 
-# Skills
+# Skills & Tools
 
 <p>
 
