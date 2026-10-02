@@ -107,15 +107,15 @@ I'm focused on improving my Front-End engineering skills through real-world proj
 
 # Featured Project
 
-### DevBoard
+### Velto Dashboard
 
-A project management dashboard built with modern Frontend technologies.
+A dashboard built with modern Frontend technologies.
 
 **Tech Stack:**
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Realtime`
 
-Currently building and improving the project with authentication, workspaces, projects, tasks and realtime data synchronization.
+Currently building and improving the project with authentication, customers, products, orders and realtime data synchronization.
 
 ---
 
