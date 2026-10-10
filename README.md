@@ -107,15 +107,13 @@ I'm focused on improving my Front-End engineering skills through real-world proj
 
 # Featured Project
 
-### Velto Dashboard
-
-A dashboard built with modern Frontend technologies.
+### Lingoora App
 
 **Tech Stack:**
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Realtime`
 
-Currently building and improving the project with authentication, customers, products, orders and realtime data synchronization.
+Currently building and improving the project with authentication, Booking, Payments, Pricing and realtime data synchronization.
 
 ---
 
